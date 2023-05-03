@@ -17,19 +17,19 @@ Official website: https://nodejs.org/en/download
 
 Verfiy that everything is installed with the following terminal commands.
 
-![image-20230503113530864](/Users/alessandrosanto/Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503113530864.png)
+![image](https://user-images.githubusercontent.com/132441647/235887685-8c1ae873-48b6-4b34-a01c-ce01bbee14ed.png)
 
 ###### Create a ".env"
 
 Create a file named ".env" inside yout project.
 
-![image-20230503114129062](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503114129062.png)
+![image](https://user-images.githubusercontent.com/132441647/235887711-839ca986-e6c7-4bd9-ad05-39ada6477683.png)
 
 ###### Openai api key
 
 Go to https://platform.openai.com/overview and got "View API keys"
 
-![image-20230503114340513](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503114340513.png)
+![image](https://user-images.githubusercontent.com/132441647/235887753-125b598d-664f-4844-91a5-fd8d5dd4c18a.png)
 
 Click "+Create new secrete key" and copy the key in your ".env" file
 
@@ -37,17 +37,17 @@ Click "+Create new secrete key" and copy the key in your ".env" file
 
 Go to https://app.pinecone.io/organizations/ and create an api key there as well. Add them to the ".env" file.
 
-![image-20230503114716258](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503114716258.png)
+![image](https://user-images.githubusercontent.com/132441647/235887859-f78c9e7b-4529-40bd-bdc7-4e72ec03837d.png)
 
 ###### Pinecone index
 
 Create a new pinecone index with the Dimension `1536`.
 
-![image-20230503114935909](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503114935909.png)
+![image](https://user-images.githubusercontent.com/132441647/235887835-80163968-6cbc-47ed-8392-fe604389d793.png)
 
 It should look similar to this
 
-![image-20230503115116431](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503115116431.png)
+![image](https://user-images.githubusercontent.com/132441647/235887815-9d2da5e8-8a7e-4974-a10d-78d38cdf59fb.png)
 
 ###### Add pinecone index to the ".env" file
 
@@ -59,13 +59,13 @@ Add the information from your index correct to the .env file. At this point it s
 
 Add a namespace for your vectors in "config/pinecone.ts".
 
-![image-20230503115534960](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503115534960.png)
+![image](https://user-images.githubusercontent.com/132441647/235887923-bf356cd0-481f-4ec0-ad1a-cf61e9aa5fe2.png)
 
 ###### Docs folder
 
 Create a folder "docs" where you have your pdf files.
 
-![image-20230503115836069](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503115836069.png)
+![image](https://user-images.githubusercontent.com/132441647/235887949-f5d8df0d-ecb1-46e6-917f-18bf65adf9ea.png)
 
 ###### Ingest your pdf
 
@@ -84,5 +84,4 @@ https://github.com/ucl98/pinecone_ingest_python_implementation
 #### Issues with openai
 
 Check if you have a paid account. If you see the following message, you need to set up a paid account.
-
-![img](https://cdn.discordapp.com/attachments/1102300260602232973/1102900848083861554/image.png)
+<img width="1273" alt="image" src="https://user-images.githubusercontent.com/132441647/235887985-f0d83447-a7e0-4dcd-87ac-11458d0742d1.png">
