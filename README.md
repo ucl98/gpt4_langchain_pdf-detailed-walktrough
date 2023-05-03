@@ -19,6 +19,7 @@ Download the project: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 
 ###### Install nodejs and npm
 
+Install nodjes and npm. 
 Official website: https://nodejs.org/en/download
 
 Verfiy that everything is installed with the following terminal commands.
