@@ -5,6 +5,10 @@
 - Openai account.
 - Pinecone account.
 
+## Foreword
+Every change I did in the gpt4-pdf-chatbot-langchain project, I have included in the "gpt4-pdf-chatbot-langchain" folder.
+It should give you a quick overview on what changes need to be done.It needs your api-keys, namespace, .. though. It is not meant to be copied to your gpt4-pdf-chatbot-langchain project.
+
 ## Project setup
 
 ###### Download the project
