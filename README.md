@@ -22,6 +22,7 @@ Download the project: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 Official website: https://nodejs.org/en/download
 
 Verfiy that everything is installed with the following terminal commands.
+- Your version may differ, it is only important that node has version 18 or higher.
 
 ![image](https://user-images.githubusercontent.com/132441647/235887685-8c1ae873-48b6-4b34-a01c-ce01bbee14ed.png)
 
