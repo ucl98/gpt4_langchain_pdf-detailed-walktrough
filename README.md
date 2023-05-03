@@ -34,7 +34,7 @@ Create a file named ".env" inside yout project.
 
 ###### Openai api key
 
-Go to https://platform.openai.com/overview and got "View API keys"
+Go to https://platform.openai.com/overview and got "View API keys".
 
 ![image](https://user-images.githubusercontent.com/132441647/235887753-125b598d-664f-4844-91a5-fd8d5dd4c18a.png)
 
@@ -52,13 +52,13 @@ Create a new pinecone index with the Dimension `1536`.
 
 ![image](https://user-images.githubusercontent.com/132441647/235887835-80163968-6cbc-47ed-8392-fe604389d793.png)
 
-It should look similar to this
+It should look similar to this:
 
 ![image](https://user-images.githubusercontent.com/132441647/235887815-9d2da5e8-8a7e-4974-a10d-78d38cdf59fb.png)
 
 ###### Add pinecone index to the ".env" file
 
-Add the information from your index correct to the .env file. At this point it should look like this
+Add the information from your index correct to the .env file. At this point it should look like this:
 
 ![image](https://user-images.githubusercontent.com/132441647/235888151-4e1411ac-140c-452c-9cbd-a74905988571.png)
 
@@ -78,7 +78,7 @@ Create a folder "docs" where you have your pdf files.
 
 Run "npm run ingest" in a terminal. This will ingest your pdf into the pinecone database. Remove the pdf document from the "docs" folder, otherwise it will be ingested a second time if you run "npm run ingest" again.
 
-The terminal must be in the project folder at the top level. I have installed "gpt4-pdf-chatbot-langchain" in "Documents"
+The terminal must be in the project folder at the top level. I have installed "gpt4-pdf-chatbot-langchain" in "Documents".
 ![image](https://user-images.githubusercontent.com/132441647/236017033-400a4c81-53fb-4bf5-b41a-a3ddbcf4de3d.png)
 
 ###### Start appliation
