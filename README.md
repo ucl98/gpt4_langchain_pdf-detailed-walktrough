@@ -53,7 +53,7 @@ It should look similar to this
 
 Add the information from your index correct to the .env file. At this point it should look like this
 
-![image-20230503115256150](../../Library/Mobile Documents/com~apple~CloudDocs/Typora/Images/image-20230503115256150.png)
+![image](https://user-images.githubusercontent.com/132441647/235888151-4e1411ac-140c-452c-9cbd-a74905988571.png)
 
 ###### (Optional) config/pinecone.ts
 
