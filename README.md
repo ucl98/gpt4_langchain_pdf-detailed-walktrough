@@ -78,9 +78,13 @@ Create a folder "docs" where you have your pdf files.
 
 Run "npm run ingest" in a terminal. This will ingest your pdf into the pinecone database. Remove the pdf document from the "docs" folder, otherwise it will be ingested a second time if you run "npm run ingest" again.
 
+The terminal must be in the project folder at the top level. I have installed "gpt4-pdf-chatbot-langchain" in "Documents"
+![image](https://user-images.githubusercontent.com/132441647/236017033-400a4c81-53fb-4bf5-b41a-a3ddbcf4de3d.png)
+
 ###### Start appliation
 
 Start the application with "npm run dev" in the terminal. Open a browser and go to the address http://localhost:3000/. You should see the project.
+![image](https://user-images.githubusercontent.com/132441647/236017283-60c6eb6c-bd7f-4c73-8ced-cf8fa2628d03.png)
 
 #### Alternative ingest with python
 
