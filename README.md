@@ -26,6 +26,12 @@ Verfiy that everything is installed with the following terminal commands.
 
 ![image](https://user-images.githubusercontent.com/132441647/235887685-8c1ae873-48b6-4b34-a01c-ce01bbee14ed.png)
 
+###### Install all required packages
+
+Open a terminal at the top level of the project and run "npm install" to install all necessary dependencies.
+
+![image](https://user-images.githubusercontent.com/132441647/236019383-a1e5b602-ac6f-4494-9ded-411cade89caf.png)
+
 ###### Create a ".env"
 
 Create a file named ".env" inside yout project.
