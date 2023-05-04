@@ -71,7 +71,7 @@ Add the information from your index correct to the .env file. At this point it s
 
 ###### (Optional) config/pinecone.ts
 
-Add a namespace for your vectors in "config/pinecone.ts".
+Give the namespace for your vectors a name in "config/pinecone.ts".
 
 ![image](https://user-images.githubusercontent.com/132441647/235887923-bf356cd0-481f-4ec0-ad1a-cf61e9aa5fe2.png)
 
