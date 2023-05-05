@@ -69,11 +69,16 @@ Add the information from your index correct to the .env file. At this point it s
 
 ![image](https://user-images.githubusercontent.com/132441647/235888151-4e1411ac-140c-452c-9cbd-a74905988571.png)
 
-###### (Optional) config/pinecone.ts
+###### (Optional) Set namespace in config/pinecone.ts
 
 Give the namespace for your vectors a name in "config/pinecone.ts".
 
 ![image](https://user-images.githubusercontent.com/132441647/235887923-bf356cd0-481f-4ec0-ad1a-cf61e9aa5fe2.png)
+
+All vectors that are ingested will be available by this namespace in your pinecone index.
+The name you defined in "config/pinecone.ts" will be used to store your ingested data in this namespace, but also lookup your data on a question to the chatbot.
+
+![image](https://user-images.githubusercontent.com/132441647/236438694-147bfae9-e84f-40b1-be68-99ae4822dfbe.png)
 
 ###### Docs folder
 
