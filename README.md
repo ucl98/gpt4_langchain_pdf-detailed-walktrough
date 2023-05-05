@@ -77,6 +77,7 @@ Give the namespace for your vectors a name in "config/pinecone.ts".
 
 All vectors that are ingested will be available by this namespace in your pinecone index.
 The name you defined in "config/pinecone.ts" will be used to store your ingested data in this namespace, but also lookup your data on a question to the chatbot.
+- It is not possible to search data in multiple namespaces simultaneously.
 
 ![image](https://user-images.githubusercontent.com/132441647/236438694-147bfae9-e84f-40b1-be68-99ae4822dfbe.png)
 
