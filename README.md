@@ -4,7 +4,7 @@
 
 - Openai account with payment option.
   - Check this section [issues-with-openai](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#issues-with-openai).
-  - As rought estimate: 1000pdf pages cost about 1€, but you get credit from openai at the beginning (I go 18€ in credit).
+  - As rought estimate: 1000pdf pages cost about 1€.
 - Pinecone account.
 
 ## Foreword
