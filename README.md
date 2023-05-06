@@ -4,7 +4,7 @@
 
 - Openai account with payment option.
   - Check this section [issues-with-openai](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#issues-with-openai).
-  - As rought estimate: 1000pdf pages cost about 1€.
+  - As rough estimate: 1000pdf pages cost about 1€.
 - Pinecone account.
 
 ## Foreword
@@ -21,7 +21,7 @@ Download the project: https://github.com/mayooear/gpt4-pdf-chatbot-langchain
 
 ###### Install nodejs and npm
 
-Install nodjes and npm. 
+Install Node.js and npm. 
 Official website: https://nodejs.org/en/download
 
 Verfiy that everything is installed with the following terminal commands.
@@ -37,7 +37,7 @@ Open a terminal at the top level of the project and run "npm install" to install
 
 ###### Create a ".env"
 
-Create a file named ".env" inside yout project.
+Create a file named ".env" inside your project.
 
 ![image](https://user-images.githubusercontent.com/132441647/235887711-839ca986-e6c7-4bd9-ad05-39ada6477683.png)
 
