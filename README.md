@@ -110,6 +110,7 @@ https://github.com/ucl98/pinecone_ingest_python_implementation
 #### Issues with openai
 
 Check if you have a paid account. If you see the following message, you need to set up a paid account.
+- https://platform.openai.com/account/usage
 <img width="1273" alt="image" src="https://user-images.githubusercontent.com/132441647/235887985-f0d83447-a7e0-4dcd-87ac-11458d0742d1.png">
 
 ## Contribution
