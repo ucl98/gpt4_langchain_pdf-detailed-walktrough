@@ -46,6 +46,7 @@ Create a file named ".env" inside your project.
 Go to https://platform.openai.com/overview and got "View API keys".
 
 ![image](https://user-images.githubusercontent.com/132441647/235887753-125b598d-664f-4844-91a5-fd8d5dd4c18a.png)
+![image](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/5089d79e-0676-4413-90fb-c0d4753ce8ec)
 
 Click "+Create new secrete key" and copy the key in your ".env" file
 
@@ -111,11 +112,11 @@ https://github.com/ucl98/pinecone_ingest_python_implementation
 ##### Paid account
 Check if you have a paid account. If you see the following message, you need to set up a paid account.
 - https://platform.openai.com/account/usage
-<img width="1273" alt="image" src="https://user-images.githubusercontent.com/132441647/235887985-f0d83447-a7e0-4dcd-87ac-11458d0742d1.png">
+![image](https://user-images.githubusercontent.com/132441647/235887985-f0d83447-a7e0-4dcd-87ac-11458d0742d1.png)
 
 ##### Api keys
 Another issue can be that your api key is not working. Create a new one and test it again.
-<img width="1440" alt="image" src="https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/5089d79e-0676-4413-90fb-c0d4753ce8ec">
+![image](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/5089d79e-0676-4413-90fb-c0d4753ce8ec)
 
 ## Contribution
 - ucl
