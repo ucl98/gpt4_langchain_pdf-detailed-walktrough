@@ -47,7 +47,7 @@ Go to https://platform.openai.com/overview and got "View API keys".
 
 ![image](https://user-images.githubusercontent.com/132441647/235887753-125b598d-664f-4844-91a5-fd8d5dd4c18a.png)
 
-Click "+Create new secrete key" and copy the key in your ".env" file
+Click "+ Create new secrete key" and copy the key in your ".env" file
 ![image](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/5089d79e-0676-4413-90fb-c0d4753ce8ec)
 
 ###### Pinecone api key
