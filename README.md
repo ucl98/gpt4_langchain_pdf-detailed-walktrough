@@ -121,6 +121,11 @@ Go to [openai playgroud](https://platform.openai.com/playground?mode=chat) and c
 - Access to the GPT4 api key does not depend on a ChatGPT subscription. You needd to [apply for it](https://openai.com/waitlist/gpt-4-api).
 <img width="1440" alt="image" src="https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/e4933871-c217-4363-9108-45a81396a063">
 
+#### Check if pinecone is working
+You can make a pinecone api request on the webpage of pinecone. Go to the "Query" tab, enter the namespace, approve the namespace and then hit "query". If it returns a result, the connection to pinecone is working.
+<img width="1440" alt="image" src="https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/1271fb37-f7b2-40ea-a085-8b7256a30c34">
+<img width="1440" alt="image" src="https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/533cc730-1b5c-4e4b-8bd5-e2141bac4f25">
+
 ##### Api keys
 Another issue can be that your api key is not working. Create a new one and test it again.
 ![image](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/5089d79e-0676-4413-90fb-c0d4753ce8ec)
@@ -129,3 +134,4 @@ Another issue can be that your api key is not working. Create a new one and test
 - ucl
 - angelina-magidova-synder
 - chaudhary_181
+- jchermy
