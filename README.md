@@ -114,13 +114,15 @@ The terminal must be in the project folder at the top level. I have installed "g
 Start the application with "npm run dev" in the terminal. Open a browser and go to the address http://localhost:3000/. You should see the project.
 ![image](https://user-images.githubusercontent.com/132441647/236017283-60c6eb6c-bd7f-4c73-8ced-cf8fa2628d03.png)
 
+## Debugging
+
 #### Alternative ingest with python
 
 To trouble shoot it might be useful to take a look at my python reimplementation at ingest. It gives more control over each step of ingest.
 
 https://github.com/ucl98/pinecone_ingest_python_implementation
 
-#### Paid account
+#### Openai paid account
 Check if you have a paid account. If you see the following message, you need to set up a paid account.
 - https://platform.openai.com/account/usage
 ![image](https://user-images.githubusercontent.com/132441647/235887985-f0d83447-a7e0-4dcd-87ac-11458d0742d1.png)
