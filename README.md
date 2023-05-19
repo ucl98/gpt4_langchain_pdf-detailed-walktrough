@@ -116,6 +116,13 @@ Check if you have a paid account. If you see the following message, you need to 
 - https://platform.openai.com/account/usage
 ![image](https://user-images.githubusercontent.com/132441647/235887985-f0d83447-a7e0-4dcd-87ac-11458d0742d1.png)
 
+#### Openai free trial expired
+You may used a free trial for the openai api. This trial expires and in this case you cannot use the openai api.
+For this case add a payed option.
+![image](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/8fab065d-4f60-462c-b8ce-c94ceede8b5b)
+![image](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/37cc0650-2685-4d04-81b1-fbfebcc96218)
+
+
 #### Issues with GPT4 api key
 Go to [openai playgroud](https://platform.openai.com/playground?mode=chat) and check if you have access to GPT4. If the model is not available, you will have no access to it and need to use GPT3.5.
 - Access to the GPT4 api key does not depend on a ChatGPT subscription. You needd to [apply for it](https://openai.com/waitlist/gpt-4-api).
