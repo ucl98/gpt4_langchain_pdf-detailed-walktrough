@@ -1,4 +1,13 @@
+## Table of Contents
 
+- [Prerequisites](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#prerequisites)
+- [Foreword](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#foreword)
+- [Project setup](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#project-setup)
+- [Alternative ingest with python](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#alternative-ingest-with-python)
+- [Issues with openai](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#issues-with-openai)
+- [Issues with GPT4 api key](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#issues-with-gpt4-api-key)
+- [Check if pinecone is working](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#check-if-pinecone-is-working)
+- [Contribution](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#contribution)
 
 ## Prerequisites
 
