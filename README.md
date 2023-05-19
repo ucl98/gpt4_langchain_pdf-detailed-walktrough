@@ -5,6 +5,8 @@
 - Openai account with payment option.
   - Check in this section, if your openai account is appropiate: [issues-with-openai](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#issues-with-openai).
   - As rough estimate: 1000pdf pages cost about 1€.
+  - Use GPT3.5 key first before trying GPT4 key ([Issues with GPT4 api key](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#Issues-with-GPT4-api-key)).
+  -   GPT4 key may cause issues or will be less performaned.
 - Pinecone account.
 
 ## Foreword
@@ -113,6 +115,11 @@ https://github.com/ucl98/pinecone_ingest_python_implementation
 Check if you have a paid account. If you see the following message, you need to set up a paid account.
 - https://platform.openai.com/account/usage
 ![image](https://user-images.githubusercontent.com/132441647/235887985-f0d83447-a7e0-4dcd-87ac-11458d0742d1.png)
+
+#### Issues with GPT4 api key
+Go to [openai playgroud](https://platform.openai.com/playground?mode=chat) and check if you have access to GPT4. If the model is not available, you will have no access to it and need to use GPT3.5.
+- Access to the GPT4 api key does not depend on a ChatGPT subscription. You needd to [apply for it](https://openai.com/waitlist/gpt-4-api).
+<img width="1440" alt="image" src="https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/e4933871-c217-4363-9108-45a81396a063">
 
 ##### Api keys
 Another issue can be that your api key is not working. Create a new one and test it again.
