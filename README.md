@@ -6,7 +6,7 @@
   - Check in this section, if your openai account is appropiate: [issues-with-openai](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#issues-with-openai).
   - As rough estimate: 1000pdf pages cost about 1€.
   - Use GPT3.5 key first before trying GPT4 key ([Issues with GPT4 api key](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#Issues-with-GPT4-api-key)).
-  -   GPT4 key may cause issues or will be less performaned.
+    - GPT4 key may cause issues or will be less performaned.
 - Pinecone account.
 
 ## Foreword
