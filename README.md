@@ -5,6 +5,7 @@
 - [Project setup](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#project-setup)
 - [Debugging](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#debugging)
   - [Alternative ingest with python](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#alternative-ingest-with-python)
+  - [Openai paid account](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#openai-paid-account)
   - [Openai free trial expired](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/blob/main/README.md#openai-free-trial-expired)
   - [Issues with GPT4 api key](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#issues-with-gpt4-api-key)
   - [Check if pinecone is working](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#check-if-pinecone-is-working)
