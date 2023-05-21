@@ -11,6 +11,9 @@
   - [Check if pinecone is working](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#check-if-pinecone-is-working)
 - [Contribution](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough#contribution)
 
+## Forwords to China
+Some have reported issues with this project when they start it in china. There might be regional blocking from openai/pinecone (21.05.2023).
+
 ## Prerequisites
 
 - Openai account with payment option.
@@ -52,7 +55,14 @@ Open a terminal at the top level of the project and run "npm install" to install
 ###### Create a ".env"
 
 Create a file named ".env" inside your project.
+```.env
+OPENAI_API_KEY = 
 
+PINECONE_API_KEY = 
+PINECONE_ENVIRONMENT = 
+
+PINECONE_INDEX_NAME = 
+```
 ![image](https://user-images.githubusercontent.com/132441647/235887711-839ca986-e6c7-4bd9-ad05-39ada6477683.png)
 
 ###### Openai api key
