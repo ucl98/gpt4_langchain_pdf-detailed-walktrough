@@ -14,6 +14,14 @@
 ## Forwords to China
 Some have reported issues with this project when they start it in china. There might be regional blocking from openai/pinecone (21.05.2023).
 
+#### Solution from jchermy
+1.: Create Cloudflare Worker, refer to https://github.com/noobnooc/noobnooc/discussions/9;
+2.：proxy all the needs of openai. The example is as follows:
+const embeddings = new OpenAIEmbeddings(undefined, {
+  basePath: 'https://openai.1rmb.tk/v1/',
+  apiKey: 'xxx',
+}); 
+
 ## Prerequisites
 
 - Openai account with payment option.
