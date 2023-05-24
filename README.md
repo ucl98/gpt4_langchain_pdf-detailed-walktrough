@@ -35,7 +35,7 @@ Some have reported issues with this project when they start it in china. There m
 - Pinecone account.
 
 ## Discord Server
-[Join the discord if you have questions](https://discord.com/invite/E4Mc77qwjm)
+[Join the discord if you have questions](https://discord.com/invite/E4Mc77qwjm).
 
 ## Project setup
 
