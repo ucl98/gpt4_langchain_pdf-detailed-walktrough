@@ -73,7 +73,7 @@ PINECONE_ENVIRONMENT =
 
 PINECONE_INDEX_NAME = 
 ```
-![image](https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/240514496-a24b3ce3-ce67-401a-9994-69bd8d18bd4d.png)
+![image](https://user-images.githubusercontent.com/132441647/240514496-a24b3ce3-ce67-401a-9994-69bd8d18bd4d.png)
 
 ###### Openai api key
 
