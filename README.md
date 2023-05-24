@@ -61,7 +61,7 @@ Open a terminal at the top level of the project and run "npm install" to install
 
 ###### Create a ".env"
 
-Create a file named ".env" inside your project with the following content.
+Create a file named ".env" inside your project with the following content:
 ```.env
 OPENAI_API_KEY = 
 
