@@ -64,7 +64,7 @@ Open a terminal at the top level of the project and run "npm install" to install
 
 ###### Create a ".env"
 
-Create a file named ".env" inside your project.
+Create a file named ".env" inside your project with the following content.
 ```.env
 OPENAI_API_KEY = 
 
@@ -73,7 +73,7 @@ PINECONE_ENVIRONMENT =
 
 PINECONE_INDEX_NAME = 
 ```
-![image](https://user-images.githubusercontent.com/132441647/235887711-839ca986-e6c7-4bd9-ad05-39ada6477683.png)
+![image]("https://github.com/ucl98/gpt4_langchain_pdf-detailed-walktrough/assets/132441647/a24b3ce3-ce67-401a-9994-69bd8d18bd4d")
 
 ###### Openai api key
 
